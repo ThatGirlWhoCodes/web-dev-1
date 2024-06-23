@@ -135,7 +135,7 @@ a:hover {
 
 .hero {
   min-height: 100vh;
-  background-image: url(images/cat1.jpg);
+  background-image: url(images/mainDog.jpg);
   background-position: center;
   background-size: cover;
   display: flex;
